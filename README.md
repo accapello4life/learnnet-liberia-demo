@@ -45,7 +45,7 @@
     <div class="section section-reverse" id="features">
         <div class="container">
             <h2 class="section-title">Features of Kiwix</h2>
-            <p class="section-subtitle">Kiwix offers a range of features that make offline access to knowledge easy and enjoyable.</p>
+            <p class="section-subtitle">Kiwix offers a range of features that make offline access to knowledge easy and enjoyable for Everyone.</p>
             <div class="section-content">
                 <div class="section-content-left">
                     <img src="features-image.jpg" alt="Features image" class="section-content-image">
